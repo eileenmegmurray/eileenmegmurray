@@ -1,13 +1,23 @@
-## Welcome 
+# 💫 About Me:
+🍒 I'm an epidemiologist based in NYC, and I am seeking positions in which I can apply my skillset toward health research.<br>🍓 I am especially passionate about pediatric, environmental, and urban health projects.<br>🍎 I have a MPH in Epidemiology & Biostatistics from CUNY Graduate School of Public Health & Health Policy. I also possess a Honours Bachelors of Arts in Health Studies from the University of Toronto.<br>❤️ This GitHub is a dedicated portfolio of my best projects.
 
-Hi, I'm Eileen Megan Murray! In June 2024, I completed my Honours Bachelor of Arts (HBA) in Health Studies, with minors in Urban Studies and Indigenous Studies, at the University of Toronto. In June 2026, I completed my Master of Public Health (MPH) in Epidemiology & Biostatistics at the CUNY Graduate School of Public Health and Health Policy.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eileen-m-48a784174/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eileenmegmurray@gmail.com) 
 
-For my MPH capstone, I examined whether neighborhood sidewalk presence is associated with physical activity among children with current asthma, using data from the 2023 National Survey of Children's Health. I presented this work at the 2026 NYC Epidemiology Forum at the Icahn School of Medicine at Mount Sinai.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![SAS]
+![R-Studio]
+![ArcGIS]
+![QGIS]
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=eileenmegmurray&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=eileenmegmurray&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=eileenmegmurray&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I have decided to pursue a career in epidemiology and biostatistics because I want to use data to inform public health policy and programming. I am especially passionate about how environmental risk factors, such as those found in the urban environment, impact health outcomes like asthma.
+---
+[![](https://komarev.com/ghpvc/?username=eileenmegmurray&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I primarily work in SAS, and I also have experience with R and Python.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-I have created this portfolio to present my capstone project, selected biostatistics coursework, data visualizations, and personal projects
 
-If you would like to get in contact with me, you can email me at [eileenmegmurray@gmail.com](mailto:eileenmegmurray@gmail.com) or connect with me on [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/eileen-m-48a784174/?isSelfProfile=true)).
