@@ -2,7 +2,7 @@
 🍒 I'm an epidemiologist based in NYC, and I am seeking positions in which I can apply my skillset toward health research.<br>🍓 I am especially passionate about pediatric, environmental, and urban health projects.<br>🍎 I have a MPH in Epidemiology & Biostatistics from CUNY Graduate School of Public Health & Health Policy. I also possess a Honours Bachelors of Arts in Health Studies from the University of Toronto.<br>❤️ This GitHub is a dedicated portfolio of my best projects (and if it has not been noticed yet, I enjoy the color red).
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eileen-m-48a784174/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eileenmegmurray@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5849--1761-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5849-1761)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eileen-m-48a784174/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eileenmegmurray@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5849--1761-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5849-1761)
 
 # 💻 Tech Stack:
 ![SAS](https://img.shields.io/badge/SAS-0766D1?style=for-the-badge)
